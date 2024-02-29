@@ -5,4 +5,5 @@ int main() {
   cout << "23-st-008" << endl;
   cout << "Addition of two numbers: " << a + b << endl;
   cout << "Subtraction of two numbers: " << a - b << endl;
+  cout << "Product of two numbers: " << a * b << endl;
 }
