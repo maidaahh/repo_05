@@ -4,4 +4,5 @@ int main() {
   cout << "Haseeb Ul Hassan" << endl;
   cout << "23-st-008" << endl;
   cout << "Addition of two numbers: " << a + b << endl;
+  cout << "Subtraction of two numbers: " << a - b << endl;
 }
